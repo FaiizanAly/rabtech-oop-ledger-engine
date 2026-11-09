@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "account_id": "ACC-1001",
+      "account_type": "SAVINGS",
+      "balance": 15250.75,
+      "interest_rate": 0.045,
+      "overdraft_limit": 0.0,
+      "owner_name": "Faizan Ali"
+    },
+    {
+      "account_id": "ACC-1002",
+      "account_type": "CHECKING",
+      "balance": 4200.5,
+      "interest_rate": 0.0,
+      "overdraft_limit": 1000.0,
+      "owner_name": "Sara Khan"
+    },
+    {
+      "account_id": "ACC-1003",
+      "account_type": "SAVINGS",
+      "balance": 8900.0,
+      "interest_rate": 0.04,
+      "overdraft_limit": 0.0,
+      "owner_name": "Aarav Sharma"
+    },
+    {
+      "account_id": "ACC-1004",
+      "account_type": "CHECKING",
+      "balance": 1850.25,
+      "interest_rate": 0.0,
+      "overdraft_limit": 500.0,
+      "owner_name": "Emily Watson"
+    }
+  ]
+}

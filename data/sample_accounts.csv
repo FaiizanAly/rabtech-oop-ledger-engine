@@ -1,0 +1,5 @@
+account_id,account_type,owner_name,balance,interest_rate,overdraft_limit
+ACC-1001,SAVINGS,Faizan Ali,15250.75,0.045,0.0
+ACC-1002,CHECKING,Sara Khan,4200.5,0.0,1000.0
+ACC-1003,SAVINGS,Aarav Sharma,8900.0,0.04,0.0
+ACC-1004,CHECKING,Emily Watson,1850.25,0.0,500.0
